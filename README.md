@@ -1,2 +1,9 @@
 # Meros-1
-Dimitrios
+Repository για εξάσκηση στο Git & GitHub
+
+##Τι περιέχει 
+-Σημειώσεις Git
+-Πείραματα με commits
+
+##Κατάσταση 
+Σε εξέλιξη
