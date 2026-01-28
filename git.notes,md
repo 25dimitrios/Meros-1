@@ -1,0 +1,13 @@
+#Git Notes
+
+##Βασικές έννοιες 
+-Repository
+-Commit
+-Branch
+-Push / Pull
+
+##Εντολές
+-git status
+-git add.
+git commit -m "message"
+git push
