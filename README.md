@@ -5,5 +5,8 @@ Repository για εξάσκηση στο Git & GitHub
 -Σημειώσεις Git
 -Πείραματα με commits
 
-##Κατάσταση 
-Σε εξέλιξη
+##Εντολές
+-git status
+-git add
+-git commit -m "message"
+git push
