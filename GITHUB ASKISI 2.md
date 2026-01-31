@@ -1,4 +1,5 @@
 #Μέρος-3
-Repository για εξάσκηση στο Git & Github
+Repository για εξάσκηση στο GitHub & Git
 
-git config --global core.editor "notepad"
+##Τι περιέχει 
+git config --global user.name "Your Name"
