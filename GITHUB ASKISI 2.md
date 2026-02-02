@@ -1,5 +1,6 @@
 #Μέρος-3
-Repository για εξάσκηση στο GitHub & Git
+Repository για εξάσκηση
 
-##Τι περιέχει 
-git config --global user.name "Your Name"
+git add GITHUB ASKISI 2.md
+git commit -m "Explain git config user.name"
+git push
