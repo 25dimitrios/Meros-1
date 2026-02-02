@@ -1,4 +1,4 @@
 # Meros-3
-Εξάσκηση στο Git & GitHub χρησημοποιώντας Repository
+Repository εξάσκηση στο Git & GitHub
 
-git.add -all
+git restore --staged index.html
