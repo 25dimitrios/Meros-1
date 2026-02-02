@@ -1,9 +1,5 @@
 # Meros-3
-Repository εξάσκηση για Git & GitHub
+Εξασκήση στο Git & GitHub χρησημοποιώντας Repository
 
-git config --list
-user.name =Theodoros Antypas
-user.email=Skordas58@gmail.com
-core.editor=code --wait
-alias.st=status
-init.defaultbranch=main
+mkdir myproject
+cd myproject
