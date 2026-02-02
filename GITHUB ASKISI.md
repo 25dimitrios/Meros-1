@@ -1,5 +1,5 @@
-# Meros-3
-Εξασκήση στο Git & GitHub χρησημοποιώντας Repository
+#Meros-3
+Εξάσκηση στο Git & GitHub χρησημοποιώντας Repository
 
-mkdir myproject
-cd myproject
+ ls
+ index.html
