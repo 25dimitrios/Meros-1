@@ -1,4 +1,4 @@
-#Meros-2
+# Meros-2
 Repository για ασκήσεις για Git & GitHub
 
 git config --global user.name "Dhmhtrhs Troympalos"
