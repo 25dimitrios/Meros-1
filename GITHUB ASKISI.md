@@ -1,6 +1,5 @@
-#Μέρος-2
-Repository για εξάσκηση στο Git & Github
+#Meros-2
+Repository για ασκήσεις για Git & GitHub
 
-##Τι περιέχει 
-git --version
-git version 2.30.2.windows.1
+git config --global user.name "Dhmhtrhs Troympalos"
+git config --global user.email "Skordas12@gmail.com"
