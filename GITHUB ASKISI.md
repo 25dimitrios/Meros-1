@@ -1,5 +1,9 @@
-# Meros-2
-Repository για ασκήσεις για Git & GitHub
+# Meros-3
+Repository εξάσκηση για Git & GitHub
 
-git config --global user.name "Dhmhtrhs Troympalos"
-git config --global user.email "Skordas12@gmail.com"
+git config --list
+user.name =Theodoros Antypas
+user.email=Skordas58@gmail.com
+core.editor=code --wait
+alias.st=status
+init.defaultbranch=main
