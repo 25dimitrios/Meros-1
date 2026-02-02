@@ -1,8 +1,5 @@
-#Μέρος-3
-Repository για εξάσκηση
+# Meros-2
+Repository για εξάσκηση στο Git & GitHub
 
-git add GITHUB ASKISI 2.md
-##git config --global user.email. "email@example.com"
-git commit -m "Explain git config user.name"
-git push
-
+git --version
+git version 2.30.2.windows.1
